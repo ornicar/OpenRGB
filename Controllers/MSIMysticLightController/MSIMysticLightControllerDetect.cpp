@@ -29,7 +29,7 @@
 |   The code has been tested on a few boards and the bricking issue has been fixed. |
 |   Uncomment this line to enable for untested boards.  Do so at your own risk.     |
 \*---------------------------------------------------------------------------------*/
-//#define ENABLE_UNTESTED_MYSTIC_LIGHT
+#define ENABLE_UNTESTED_MYSTIC_LIGHT
 
 /*----------------------------------------------------------------------------------------*\
 |                                                                                          |
